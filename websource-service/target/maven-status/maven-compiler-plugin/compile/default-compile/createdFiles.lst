@@ -1,0 +1,15 @@
+net\websourceTech\configuration\HibernateConfiguration.class
+net\websourceTech\springSecurity\SecurityWebApplicationInitializer.class
+net\websourceTech\service\UserService.class
+net\websourceTech\configuration\CORSFilter.class
+net\websourceTech\service\UserServiceImpl.class
+net\websourceTech\springSecurity\SecurityConfiguration.class
+net\websourceTech\service\UserProfileService.class
+net\websourceTech\controller\AppController.class
+net\websourceTech\configuration\SecurityConfiguration.class
+net\websourceTech\configuration\AppConfig.class
+net\websourceTech\controller\IndexController.class
+net\websourceTech\configuration\AppInitializer.class
+net\websourceTech\model\RoleToUserProfileConverter.class
+net\websourceTech\service\UserProfileServiceImpl.class
+net\websourceTech\springSecurity\CustomUserDetailsService.class

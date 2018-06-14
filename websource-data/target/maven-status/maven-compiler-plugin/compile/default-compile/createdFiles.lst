@@ -1,0 +1,10 @@
+net\websourceTech\DaoImpl\UserDaoImpl.class
+net\websourceTech\dao\UserProfileDao.class
+net\websourceTech\Entity\UserProfile.class
+net\websourceTech\dao\AbstractDao.class
+net\websourceTech\Entity\UserProfileType.class
+net\websourceTech\DaoImpl\UserProfileDaoImpl.class
+net\websourceTech\Entity\PersistentLogin.class
+net\websourceTech\Entity\User.class
+net\websourceTech\DaoImpl\HibernateTokenRepositoryImpl.class
+net\websourceTech\dao\UserDao.class
